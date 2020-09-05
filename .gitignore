@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 ./globals.js
-globals.jss
+globals.js
 
 # testing
 /coverage
