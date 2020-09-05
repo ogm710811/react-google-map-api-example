@@ -4,8 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-./globals.js
-globals.js
+/src/globals.js
 
 # testing
 /coverage
