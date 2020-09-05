@@ -2,7 +2,8 @@ import React from 'react'
 import GoogleMapReact from 'google-map-react'
 import './Map.css'
 import LocationPin from "./LocationPin";
-import { GOOGLE_MAP_API } from "../../../globals";
+import { GOOGLE_MAP_API } from "../../globals";
+
 
 const map = ({ location, zoomLevel }) => <div className="map">
   <h2 className="map-h2">Come Visit Us At Our Campus</h2>
